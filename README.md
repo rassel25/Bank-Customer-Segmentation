@@ -1,4 +1,4 @@
-# Bank Customer Segmentation with K-Means Clustering and Streamlit
+# Bank Customer Segmentation with K-Means Clustering, Pyspark and Streamlit
 
 This project aims to predict customer clusters for enhanced bank profitability through targeted customer engagement. It utilizes Apache Spark (PySpark) to analyze a large dataset of over 1 million customers and leverages various techniques for effective customer segmentation and prediction.
 
